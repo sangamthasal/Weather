@@ -6,7 +6,8 @@
 }
 
 #screen{
-    background:url(/image/scenery.jpg) no-repeat center center/cover;
+    background-color: black;
+    /* background:url() no-repeat center center/cover; */
     height: 100vh;
 }
 
